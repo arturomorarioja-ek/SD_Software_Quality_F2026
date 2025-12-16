@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3e0f6860-d5be-4ddd-bf01-9f263fc1694a" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3e0f6860-d5be-4ddd-bf01-9f263fc1694a" align="left" style="z-index: 999;" />
 
 # Software Quality - Spring 2026
 ## PBA Software Development
