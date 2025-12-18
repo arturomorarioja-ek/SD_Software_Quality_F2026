@@ -6,9 +6,9 @@
 ### Lessons
 
 - [Lesson 1](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson01/README.md) (27 January): Intro to Software Testing. SDLCs and the V-Model. Intro to Unit Testing
-- [Lesson 2](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/README.md) (3 February): Black-box Test Design Techniques
+- [Lesson 2](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/README.md) (3 February): Black-Box Test Design Techniques
 - [Lesson 3](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/README.md) (10 February): Unit Testing best practices, anti-patterns, and approaches
-- [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/README.md) (17 February): White-box Test Design Techniques. Static Code Analysis
+- [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/README.md) (17 February): White-Box Test Design Techniques. Static Code Analysis
 - [Lesson 5](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson05/README.md) (24 February): Integration Testing. API Testing. DB Testing. Continuous Testing
 - [Lesson 6](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson06/README.md) (3 March): End-to-End UI Testing: Selenium IDE, Selenium WebDriver
 - [Lesson 7](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson07/README.md) (10 March): End-to-End UI Testing: Cypress, Playwright
