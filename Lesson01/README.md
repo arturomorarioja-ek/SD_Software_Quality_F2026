@@ -17,5 +17,8 @@ Check out the following slide decks on Itslearning:
   - How to apply it in an iterative development (e.g., Agile)
   - The differences between the four levels of testing (unit, integration, system, acceptance)
   - The Test Pyramid, with a critical focus as to its present day validity 
+- **Introduction to Unit Testing**, specifically:
+  - The AAA pattern
 
-[ROLL CALL]: #
+## In-class exercises
+[Calculator](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson01/Ex%2001%20Calculator.md)
