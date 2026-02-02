@@ -33,6 +33,4 @@ Check out the following slide decks on Itslearning:
 - Research unit testing frameworks for your preferred programming language(s)
 
 - Design and write unit tests for the following exercise using the programming language and unit testing framework of your choice. Use parameterised tests and try to elaborate a comprehensive list of test cases that bring value to the process:
-  - [Roman Numerals](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson01/Ex%2002%20Roman%20Numerals.md)
- 
-[dec to bin]: #
+  - [Roman Numerals](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson01/Ex%2002%20Roman%20Numerals.md)
