@@ -25,7 +25,7 @@ Check out the following slide decks on Itslearning:
 [Calculator](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson01/Ex%2001%20Calculator.md)
 
 ## Homework
-- Check out the following code sample:
+- Check out the following code samples:
   - Calculator Sum ([Python/Pyunit](https://github.com/arturomorarioja/py_sum_unit_tests) | [JavaScript/Jest](https://github.com/arturomorarioja/js_sum_unit_tests) | [PHP/PHPUnit](https://github.com/arturomorarioja/php_sum_unit_tests)). Very basic unit tests mostly following the AAA pattern
   - VAT Calculation ([Python/Pyunit](https://github.com/arturomorarioja/python_vat) | [JavaScript/Jest](https://github.com/arturomorarioja/js_vat) | [PHP/PHPUnit](https://github.com/arturomorarioja/php_vat_unit_tests)). Data provider/parameterised test examples. Jest's are a bit "playful"
   - Length Converter ([Python/Pyunit](https://github.com/arturomorarioja/py_length_converter_unit_tests) | [JavaScript/Jest](https://github.com/arturomorarioja/js_length_converter_unit_tests) | [PHP/PHPUnit](https://github.com/arturomorarioja/php_length_converter_unit_tests)). Data providers and exception testing
