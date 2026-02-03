@@ -2,12 +2,10 @@
 
 # Lesson 2 - 3 February
 
-[ROLL CALL]: #
-
 ## In-class exercises
 - Equivalence partitions
   - [Bank account](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2001%20EP%20Bank%20Account.md)
-- Boundary values
+- Equivalence partitions and Boundary values
   - [Printer Cartridges](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2003%20EP%20BV%20Printer%20Cartridges.md)
   - [Password field](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2004%20EP%20BV%20Password%20Field.md)
     
@@ -20,4 +18,8 @@ Check out the following slide decks on Itslearning:
 
 ## Homework
 Solve the following exercises:
+- Equivalence partitions
   - [Flowers](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2002%20EP%20Flowers.md)
+- Equivalence partitions and boundary values
+  - [E-shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2005%20EP%20BV%20E-shop.md)
+  - [Framing Shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2006%20EP%20BV%20Framing%20Shop.md)
