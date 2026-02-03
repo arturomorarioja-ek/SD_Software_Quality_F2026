@@ -9,6 +9,7 @@
   - [Bank account](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2001%20EP%20Bank%20Account.md)
 - Boundary values
   - [Printer Cartridges](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2003%20EP%20BV%20Printer%20Cartridges.md)
+  - [Password field](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson02/Ex%2004%20EP%20BV%20Password%20Field.md)
     
 ## Class takeaways
 Check out the following slide decks on Itslearning:
