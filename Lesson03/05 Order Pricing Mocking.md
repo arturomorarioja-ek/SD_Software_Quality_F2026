@@ -17,4 +17,5 @@ Implement an order pricing service using the programming language of your choice
 Design and write unit tests for `OrderPricingService.calculateTotal()` so that both collaborators are mocked.
 
 [### Solution]: #
-[Pytest/Python(https://github.com/arturomorarioja/py_order_pricing_mock)]: #
+[- Pytest/Python(https://github.com/arturomorarioja/py_order_pricing_mock)]: #
+[- Jest/JavaScript(https://github.com/arturomorarioja/js_order_pricing_mock)]: #
