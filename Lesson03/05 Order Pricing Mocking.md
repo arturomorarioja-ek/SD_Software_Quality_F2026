@@ -2,7 +2,7 @@
 
 **Part I**
 
-Implement and order pricing service using the programming language of your choice and according to the following requirements:
+Implement an order pricing service using the programming language of your choice and according to the following requirements:
 - The `OrderPricingService` is part of the checkout process of an e-commerce platform
 - The service depends on two external collaborators that are not yet implemented:
   - `DiscountService.getDiscount(subtotal)` provides a discount for an order
