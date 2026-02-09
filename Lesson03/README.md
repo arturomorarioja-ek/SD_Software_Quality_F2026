@@ -6,7 +6,7 @@
 
 [SLIDES Intro to UT: Set Up & Tear Down (show how to do them in Pytest, Jest & PHPUnit) + Test Doubles]: #
 [Demo mocking: Customer onboarding]: #
-[In-class ex: ]: #
+[In-class ex: Order pricing service(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/05%20Order%20Pricing%20Mocking.md)]: #
 
 [SLIDES Decision Table Testing]: #
 [In-class ex: DT Input form]: #
