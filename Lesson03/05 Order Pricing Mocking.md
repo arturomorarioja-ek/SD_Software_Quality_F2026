@@ -13,3 +13,5 @@ Implement and order pricing service using the programming language of your choic
 - All monetary values are in Danish kroner
 
 **Part II**
+
+Design and write unit tests for `OrderPricingService.calculateTotal()` so that both collaborators are mocked.
