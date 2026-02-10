@@ -18,7 +18,7 @@
 ## In-class exercise
 - Test doubles: [Order Pricing Service](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/05%20Order%20Pricing%20Mocking.md)
 
-## Class takeaways
+## Homework
 Check out the following slide decks on Itslearning:
 - **Introduction to Unit Testing**, specifically:
   - Set up and tear down
