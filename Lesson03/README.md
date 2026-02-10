@@ -22,4 +22,7 @@
 Check out the following slide decks on Itslearning:
 - **Introduction to Unit Testing**, specifically:
   - Set up and tear down
-  - Test Doubles  
+  - Test Doubles
+
+Check out the following code sample:
+- Mocking - Customer onboarding: [Pytest/Python](https://github.com/arturomorarioja/py_customer_onboarding_mock) | [Jest/JavaScript](https://github.com/arturomorarioja/js_customer_onboarding_mock) | [PHPUnit/PHP8](https://github.com/arturomorarioja/php_customer_onboarding_mock)
