@@ -29,3 +29,4 @@ Check out the following slide decks on Itslearning:
 
 Check out the following code sample:
 - Mocking - Customer onboarding: [Pytest/Python](https://github.com/arturomorarioja/py_customer_onboarding_mock) | [Jest/JavaScript](https://github.com/arturomorarioja/js_customer_onboarding_mock) | [PHPUnit/PHP8](https://github.com/arturomorarioja/php_customer_onboarding_mock)
+- Practice the use of test doubles (mocks and stubs) in the unit testing framework(s) of your choice
