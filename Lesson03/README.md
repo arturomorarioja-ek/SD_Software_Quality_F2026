@@ -23,6 +23,17 @@ Check out the following slide decks on Itslearning:
 - **Introduction to Unit Testing**, specifically:
   - Set up and tear down
   - Test Doubles
+- **Unit Testing Best Practices and Anti-Patterns**
+  - Best practices
+    - Each test must verify only one behaviour
+    - Test case selection should be comprehensive
+    - Full regression testing should be run as often as possible
+    - Code must be written so that it is testable (e.g., pure functions or methods)
+  - Anti-patterns
+    - Do never test private methods directly
+    - Do never expose private state
+    - Do not leak domain knowledge to the unit tests
+    - Avoid code pollution
 
 Check out the following code sample:
 - Mocking - Customer onboarding: [Pytest/Python](https://github.com/arturomorarioja/py_customer_onboarding_mock) | [Jest/JavaScript](https://github.com/arturomorarioja/js_customer_onboarding_mock) | [PHPUnit/PHP8](https://github.com/arturomorarioja/php_customer_onboarding_mock)
