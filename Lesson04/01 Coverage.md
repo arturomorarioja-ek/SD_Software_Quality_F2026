@@ -1,4 +1,4 @@
-### Coverage calculation - Solutions
+### Coverage calculation
 
 #### Algorithm
 Define a minimum set of test cases for the following pseudocode to reach
