@@ -6,6 +6,7 @@
 
 [Slides White-box]: #
 [In-class: coverage(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)]: #
+[Show how Jest and pytest-cov calculate coverage]: #
 
 [Slides Static Test Tools]: #
 
