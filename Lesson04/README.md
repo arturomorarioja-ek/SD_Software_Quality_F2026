@@ -2,8 +2,6 @@
 
 # Lesson 4 - 17 February
 
-[Homework: DT Driver's License(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/02%20EP%20BV%20DT%20Driver's%20license.md)]: #
-[Homework: DT Airline(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/03%20DT%20Airline.md)]: #
 [Homework: SonarCloud or similar]: #
 
 ## In-class exercises
@@ -26,3 +24,6 @@
   - Evaluate whether the uncovered statements deserve a unit test or not
 - Try a linter for the programming language of your choice
 - Research static code analysis tools like SonarQube (generic) and also for your specific programming language
+- Solve the following Decision Table Testing exercises:
+  - [Driver's License](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/02%20EP%20BV%20DT%20Driver's%20license.md)
+  - [Airline](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/03%20DT%20Airline.md)
