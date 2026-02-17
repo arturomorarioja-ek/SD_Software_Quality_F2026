@@ -40,6 +40,8 @@ ENDIF
     #3. Values: q = 8, r = 25, s = 15 (else – if - else)
     ```
 
+    <img width="516" height="458" alt="image" src="https://github.com/user-attachments/assets/fc54a09a-69cc-45fd-9f73-ba4cac955037" />
+
 #### Grading
 Define a minimum set of test cases for the following pseudocode to reach
 1. 100% statement coverage
