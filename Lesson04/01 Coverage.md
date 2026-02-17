@@ -69,6 +69,24 @@ Begin
 End
 ```
 
+**Solution**
+
+1. Test cases 100% statement coverage
+
+    ```
+    #1. Values: StudentScore = 85
+    
+    #2. Values: StudentScore = 65
+    
+    #3. Values: StudentScore = 45
+    
+    #4. Values: StudentScore = 35
+    ```
+
+2. Test cases 100% decision coverage
+
+    Same as statement coverage, because every if has an else.
+
 #### Interest
 Define a minimum set of test cases for the following pseudocode to reach
 1. 100% statement coverage
