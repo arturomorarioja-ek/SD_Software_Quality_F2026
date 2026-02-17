@@ -20,6 +20,26 @@ IF r >= 22 THEN
 ENDIF
 ```
 
+**Solution**
+
+1. Test cases 100% statement coverage
+
+    ```
+    #1. Values: q = 3, r = 25, s = 10 (all ifs)
+
+    #2. Values: q = 8, r = 25, s = 10 (first else, then all ifs)
+    ```
+
+2. Test cases 100% decision coverage
+
+    ```
+    #1. Values: q = 3, r = 25, s = 10 (all ifs)
+
+    #2. Values: q = 8, r = 20, s = 10 (first and second elses)
+
+    #3. Values: q = 8, r = 25, s = 15 (else – if - else)
+    ```
+
 #### Grading
 Define a minimum set of test cases for the following pseudocode to reach
 1. 100% statement coverage
