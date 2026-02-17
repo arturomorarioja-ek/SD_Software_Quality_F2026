@@ -2,8 +2,6 @@
 
 # Lesson 4 - 17 February
 
-[Homework: SonarCloud or similar]: #
-
 ## In-class exercises
 - [Coverage](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)
 - [DT password](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/01%20DT%20Input%20form.md)
