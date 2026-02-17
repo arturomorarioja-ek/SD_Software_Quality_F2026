@@ -4,3 +4,5 @@
 
 [Exercises: coverage 3 last ones]: #
 [Exercises: DT Driver's license / Airline]: #
+
+[PENDING: State Transition Testing]: #
