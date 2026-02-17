@@ -20,3 +20,14 @@
 [Homework: DT Driver's License(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/02%20EP%20BV%20DT%20Driver's%20license.md)]: #
 [Homework: DT Airline(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson03/03%20DT%20Airline.md)]: #
 [Homework: SonarCloud or similar]: #
+
+## In-class exercises
+- [Coverage](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)
+
+## Homework
+Check out the following slide decks in Itslearning:
+- **Test Design Techniques: White Box**, with a special focus on:
+  - The value of coverage as a testing metric
+  - The difference between statement and decision coverage
+  - How to calculate coverage with different unit testing frameworks (slides on **Pytest**, **Jest**, **PHPUnit**) 
+
