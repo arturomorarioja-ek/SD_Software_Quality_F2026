@@ -60,7 +60,3 @@ Create and automate in Postman the test scripts for the [Customers sample API](h
       - `GET /customers/{{CUSTOMER_ID}}`
         - Status code must be 404
         - The response must include the key `"message"`, which must be a string
-
-#### Solution
-- [Customers Postman environment]()
-- [Customers Postman collection]()
