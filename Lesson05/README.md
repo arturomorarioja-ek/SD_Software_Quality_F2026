@@ -19,6 +19,8 @@
 [- Deploys: https://github.com/arturomorarioja/circe]: #
 [Talk about different flows (e.g., FE, BE, testing)]: #
 
+[Slides Database Integration Testing]: #
+
 [PENDING: State Transition Testing]: #
 
 [Homework: Customers API testing]: #
