@@ -10,6 +10,7 @@
 
 [Slides API Testing]: #
 [Postman demo: https://github.com/arturomorarioja/py_library_api_v3]: #
+[Prescribe Customers API as homework]: #
 
 [Slides Continuous Testing]: #
 [GitHub Actions demos:]: #
@@ -23,4 +24,4 @@
 
 [PENDING: State Transition Testing]: #
 
-[Homework: Customers API testing]: #
+[Homework: Measure Converter, Customers API testing, try GitHub Actions, reflect on DB testing]: #
