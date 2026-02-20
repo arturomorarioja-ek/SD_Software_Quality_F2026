@@ -50,7 +50,7 @@ Create and automate in Postman the test scripts for the [Customers sample API](h
         - The response must include the key `"message"`, which must be a string
       - `GET /customers/{{CUSTOMER_ID}}`
         - Status code must be 200
-        - The response must include the key `"First Name"`, which must correspond to the value of `UPDATED_FIRST_NAME`
+        - The response must include the key `"first_name"`, which must correspond to the value of `UPDATED_FIRST_NAME`
       - `DEL /customers/{{CUSTOMER_ID}}`
         - Status code must be 200
         - The response must include the key `"message"`, which must be a string and include the text `"successfully deleted"`
