@@ -2,7 +2,7 @@
 
 Create and automate in Postman the test scripts for the [Customers sample API](https://github.com/arturomorarioja/customers_api) from scratch:
 
-1. Install the Customers sample API and run it on port 8001
+1. Run the Customers sample API on Docker. It will run on port 8001
 2. In Postman, create a new collection
 3. Create an environment for said collection with the following variables and values:
     - `BASE_URL: http://localhost:8001`
