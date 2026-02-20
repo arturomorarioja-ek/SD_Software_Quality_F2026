@@ -8,11 +8,11 @@ Create several classes that perform several measure conversions according to the
   - It only covers centimeters and inches, respectively
   - Length class. Methods:
     - Constructor
-      - @param. The numeric measure to convert with up to two decimals
-      - @param. The system of said measure (Metric or Imperial)
-    - convert()
+      - `@param`. The numeric measure to convert with up to two decimals
+      - `@param`. The system of said measure (Metric or Imperial)
+    - `convert()`
       - It implements an if (if the system is Metric then … otherwise …)
-      - @return. The value of the conversion with up to two decimals
+      - `@return`. The value of the conversion with up to two decimals
   - Weight
     - Conversion between the Metric and Imperial systems
     - It only covers kilograms and pounds, respectively
@@ -21,13 +21,13 @@ Create several classes that perform several measure conversions according to the
     - Conversion between the Celsius, Fahrenheit, and Kelvin scales
     - Temperature class. Methods:
       - Constructor
-        - @param. The numeric measure to convert with up to two decimals
-        - @param. The temperature scale of said measure
-      - convert()
+        - `@param`. The numeric measure to convert with up to two decimals
+        - `@param`. The temperature scale of said measure
+      - `convert()`
         - It implements a switch with the 6 possible conversions (C to F, C to K, F to C, F to K, K to C, K to F)
         - Each switch calls a method that performs the specific conversion
-        - @param. The destination temperature scale
-        - @return. The value of the conversion with up to two decimals
+        - `@param`. The destination temperature scale
+        - `@return`. The value of the conversion with up to two decimals
   - Currency
     - Conversion between world currencies
     - Currency class. Methods:
@@ -40,16 +40,16 @@ Create several classes that perform several measure conversions according to the
   - Grades
     - Conversion between the Danish and American grading systems
     - Grade class. Methods:
-      - convert()
+      - `convert()`
         - It queries a local database with the conversion information
         - Free choice of database model and DBMS (here you are a [MySQL script](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson05/converter.sql), just in case)
         - Possible implementation:
 
           <img width="217" height="218" alt="image" src="https://github.com/user-attachments/assets/f67566ad-1f95-4054-b4f7-33144205b2b2" />
 
-        - @param. The grade to convert
-        - @param. The country to whose grading system the grade corresponds to
-        - @return. The converted grade
+        - `@param`. The grade to convert
+        - `@param`. The country to whose grading system the grade corresponds to
+        - `@return`. The converted grade
  
 **Part II**
 
