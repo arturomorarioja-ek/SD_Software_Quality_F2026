@@ -32,11 +32,11 @@ Create several classes that perform several measure conversions according to the
     - Conversion between world currencies
     - Currency class. Methods:
       - Constructor
-        - @param. The base currency in 3-letter format (e.g., 'DKK')
-      - convert()
+        - `@param`. The base currency in 3-letter format (e.g., `DKK`)
+      - `convert()`
         - It calls the API https://freecurrencyapi.net/. This API has an endpoint that returns the conversion rate from the given currency to all other currencies. Use it for this method.
-        - @param. The numeric amount to convert with up to two decimals
-        - @return. The converted monetary amount with up to two decimals
+        - `@param`. The numeric amount to convert with up to two decimals
+        - `@return`. The converted monetary amount with up to two decimals
   - Grades
     - Conversion between the Danish and American grading systems
     - Grade class. Methods:
