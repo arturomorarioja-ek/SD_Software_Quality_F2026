@@ -42,7 +42,7 @@ Create several classes that perform several measure conversions according to the
     - Grade class. Methods:
       - `convert()`
         - It queries a local database with the conversion information
-        - Free choice of database model and DBMS (here you are a [MySQL script](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson05/converter.sql), just in case)
+        - Free choice of database model and DBMS (here you are a [MySQL script](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson05/converter.sql), just in case)
         - Possible implementation:
 
           <img width="217" height="218" alt="image" src="https://github.com/user-attachments/assets/f67566ad-1f95-4054-b4f7-33144205b2b2" />
